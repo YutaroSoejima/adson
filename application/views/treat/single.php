@@ -29,8 +29,17 @@
 			  <div class="tab-pane active" id="tab1">
 			  	<div class="panel panel-default panel-connect">
 					<div class="panel-body">
-						<h3><?=$client_member->name;?><small> @ <?=$client->name;?></small></h3>
-						<p><?=nl2br($client_member->introduction);?></p>
+						<div class="row">
+							<div class="col-xs-3">
+								<div class="prof_img">
+									<img src='<?=site_url("images/$client_member->img_name")?>' alt="<?=$client_member->name;?>">
+								</div>
+							</div>
+							<div class="col-xs-9">
+								<h3 class="mt0"><?=$client_member->name;?><small> @ <?=$client->name;?></small></h3>
+								<p><?=nl2br($client_member->introduction);?></p>
+							</div>
+						</div>
 					</div>
 				</div>
 			  </div>
