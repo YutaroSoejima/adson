@@ -19,7 +19,7 @@
         <div class="panel-body">
               <a href='<?=site_url("treat/$row->id")?>'><?=mb_strimwidth($row->content, 0, 400, "...")?></a>
         </div>
-        <div class="panel-footer text-right"><?=$this->common_model->get_column("name", $row->client_id, "clients")?></div>
+        <div class="panel-footer text-right"><span class="glyphicon glyphicon-tower" aria-hidden="true"></span> <?=$this->common_model->get_column("name", $row->client_id, "clients")?></div>
       </div>
   	<?php endforeach;?>
   </div>
