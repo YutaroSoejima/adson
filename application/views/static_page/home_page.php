@@ -27,7 +27,7 @@
     	<?php foreach ($treat_proposals as $row):?>
   	    <a href='<?=site_url("t/$row->id")?>' class="list-group-item">
           <h3 class="list-group-item-heading overflow-dotted"><?=$row->title?></h3>
-          <p><?=$this->common_model->get_column("name", $row->client_id, "clients")?></p>
+          <p><span class="glyphicon glyphicon-tower" aria-hidden="true"></span> <?=$this->common_model->get_column("name", $row->client_id, "clients")?></p>
     	    <p class="list-group-item-text overflow-dotted"><?=$row->content?></p>
     	  </a>
   	  <?php endforeach;?>
