@@ -1,0 +1,77 @@
+/* common */
+body{font-size:14px;}
+h1{font-size: 36px;}
+h2{font-size: 24px;}
+h3{font-size: 16px;}
+
+.jumbotron ol li{
+	font-size: 21px;
+	font-weight: 200;
+}
+
+/* footer */
+#footer{
+	margin-top:20px;
+	background-color:#222;
+}
+#footer h5{
+	text-align: center;
+	color:#8D9D9D;
+}
+
+/* panel */
+.panel-connect{
+	border-top:0;
+	-webkit-border-top-left-radius: 0px;  
+    -webkit-border-top-right-radius: 0px;
+    -moz-border-radius-topleft: 0px;  
+    -moz-border-radius-topright: 0px; 
+}
+
+/* 共通で使えるクラス */
+.overflow-dotted{
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.center{
+	text-align: center !important;
+}
+.right{
+	text-align: right !important;
+}
+
+.small{
+	font-size: .8em !important;
+}
+.ex-small{
+	font-size: .7em !important;
+}
+
+.mt0{
+	margin-top: 0 !important;
+}
+.mt1e{
+	margin-top: 1em !important;
+}
+.mb0{
+	margin-bottom: 0 !important;
+}
+.mb1e{
+	margin-bottom: 1em !important;
+}
+.mb10{
+	margin-bottom: 10px !important;
+}
+.mb20{
+	margin-bottom: 20px !important;
+}
+
+@media screen and ( max-width:768px) {
+	/* common */
+	body{font-size:12px;}
+	h1{font-size: 28px;}
+	h2{font-size: 20px;}
+	h3{font-size: 16px;}
+	.jumbotron p, .jumbotron ol li{font-size:1.1em;}
+}
