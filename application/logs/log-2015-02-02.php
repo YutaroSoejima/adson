@@ -838,3 +838,97 @@ DEBUG - 2015-02-02 01:47:40 --> File loaded: application/views/footer.php
 DEBUG - 2015-02-02 01:47:40 --> File loaded: application/views/treat/entry.php
 DEBUG - 2015-02-02 01:47:40 --> Final output sent to browser
 DEBUG - 2015-02-02 01:47:40 --> Total execution time: 0.2847
+DEBUG - 2015-02-02 02:59:23 --> Config Class Initialized
+DEBUG - 2015-02-02 02:59:23 --> Hooks Class Initialized
+DEBUG - 2015-02-02 02:59:23 --> Utf8 Class Initialized
+DEBUG - 2015-02-02 02:59:23 --> UTF-8 Support Enabled
+DEBUG - 2015-02-02 02:59:23 --> URI Class Initialized
+DEBUG - 2015-02-02 02:59:23 --> Router Class Initialized
+DEBUG - 2015-02-02 02:59:23 --> Output Class Initialized
+DEBUG - 2015-02-02 02:59:23 --> Security Class Initialized
+DEBUG - 2015-02-02 02:59:23 --> Input Class Initialized
+DEBUG - 2015-02-02 02:59:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-02 02:59:23 --> Language Class Initialized
+DEBUG - 2015-02-02 02:59:23 --> Loader Class Initialized
+DEBUG - 2015-02-02 02:59:23 --> Config file loaded: application/config/adson_config.php
+DEBUG - 2015-02-02 02:59:23 --> Helper loaded: form_helper
+DEBUG - 2015-02-02 02:59:24 --> Helper loaded: url_helper
+DEBUG - 2015-02-02 02:59:24 --> Helper loaded: date_helper
+DEBUG - 2015-02-02 02:59:24 --> Database Driver Class Initialized
+ERROR - 2015-02-02 02:59:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\treat_test\system\database\drivers\mysql\mysql_driver.php 88
+DEBUG - 2015-02-02 02:59:24 --> Session Class Initialized
+DEBUG - 2015-02-02 02:59:24 --> Helper loaded: string_helper
+DEBUG - 2015-02-02 02:59:24 --> Session routines successfully run
+DEBUG - 2015-02-02 02:59:24 --> Model Class Initialized
+DEBUG - 2015-02-02 02:59:24 --> Model Class Initialized
+DEBUG - 2015-02-02 02:59:24 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-02-02 02:59:24 --> Controller Class Initialized
+DEBUG - 2015-02-02 02:59:24 --> Model Class Initialized
+DEBUG - 2015-02-02 02:59:24 --> Form Validation Class Initialized
+DEBUG - 2015-02-02 02:59:24 --> File loaded: application/views/header.php
+DEBUG - 2015-02-02 02:59:24 --> File loaded: application/views/footer.php
+DEBUG - 2015-02-02 02:59:24 --> File loaded: application/views/user/register.php
+DEBUG - 2015-02-02 02:59:24 --> Final output sent to browser
+DEBUG - 2015-02-02 02:59:24 --> Total execution time: 0.6696
+DEBUG - 2015-02-02 02:59:27 --> Config Class Initialized
+DEBUG - 2015-02-02 02:59:27 --> Hooks Class Initialized
+DEBUG - 2015-02-02 02:59:27 --> Utf8 Class Initialized
+DEBUG - 2015-02-02 02:59:27 --> UTF-8 Support Enabled
+DEBUG - 2015-02-02 02:59:27 --> URI Class Initialized
+DEBUG - 2015-02-02 02:59:27 --> Router Class Initialized
+DEBUG - 2015-02-02 02:59:27 --> No URI present. Default controller set.
+DEBUG - 2015-02-02 02:59:27 --> Output Class Initialized
+DEBUG - 2015-02-02 02:59:27 --> Security Class Initialized
+DEBUG - 2015-02-02 02:59:27 --> Input Class Initialized
+DEBUG - 2015-02-02 02:59:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-02 02:59:27 --> Language Class Initialized
+DEBUG - 2015-02-02 02:59:27 --> Loader Class Initialized
+DEBUG - 2015-02-02 02:59:27 --> Config file loaded: application/config/adson_config.php
+DEBUG - 2015-02-02 02:59:27 --> Helper loaded: form_helper
+DEBUG - 2015-02-02 02:59:27 --> Helper loaded: url_helper
+DEBUG - 2015-02-02 02:59:27 --> Helper loaded: date_helper
+DEBUG - 2015-02-02 02:59:27 --> Database Driver Class Initialized
+ERROR - 2015-02-02 02:59:27 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\treat_test\system\database\drivers\mysql\mysql_driver.php 88
+DEBUG - 2015-02-02 02:59:27 --> Session Class Initialized
+DEBUG - 2015-02-02 02:59:27 --> Helper loaded: string_helper
+DEBUG - 2015-02-02 02:59:27 --> Session routines successfully run
+DEBUG - 2015-02-02 02:59:27 --> Model Class Initialized
+DEBUG - 2015-02-02 02:59:27 --> Model Class Initialized
+DEBUG - 2015-02-02 02:59:27 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-02-02 02:59:27 --> Controller Class Initialized
+DEBUG - 2015-02-02 02:59:27 --> File loaded: application/views/header.php
+DEBUG - 2015-02-02 02:59:27 --> File loaded: application/views/footer.php
+DEBUG - 2015-02-02 02:59:27 --> File loaded: application/views/static_page/home_page.php
+DEBUG - 2015-02-02 02:59:27 --> Final output sent to browser
+DEBUG - 2015-02-02 02:59:27 --> Total execution time: 0.2989
+DEBUG - 2015-02-02 02:59:34 --> Config Class Initialized
+DEBUG - 2015-02-02 02:59:34 --> Hooks Class Initialized
+DEBUG - 2015-02-02 02:59:34 --> Utf8 Class Initialized
+DEBUG - 2015-02-02 02:59:34 --> UTF-8 Support Enabled
+DEBUG - 2015-02-02 02:59:34 --> URI Class Initialized
+DEBUG - 2015-02-02 02:59:34 --> Router Class Initialized
+DEBUG - 2015-02-02 02:59:34 --> No URI present. Default controller set.
+DEBUG - 2015-02-02 02:59:34 --> Output Class Initialized
+DEBUG - 2015-02-02 02:59:34 --> Security Class Initialized
+DEBUG - 2015-02-02 02:59:34 --> Input Class Initialized
+DEBUG - 2015-02-02 02:59:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-02 02:59:34 --> Language Class Initialized
+DEBUG - 2015-02-02 02:59:34 --> Loader Class Initialized
+DEBUG - 2015-02-02 02:59:34 --> Config file loaded: application/config/adson_config.php
+DEBUG - 2015-02-02 02:59:34 --> Helper loaded: form_helper
+DEBUG - 2015-02-02 02:59:34 --> Helper loaded: url_helper
+DEBUG - 2015-02-02 02:59:34 --> Helper loaded: date_helper
+DEBUG - 2015-02-02 02:59:34 --> Database Driver Class Initialized
+ERROR - 2015-02-02 02:59:34 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\treat_test\system\database\drivers\mysql\mysql_driver.php 88
+DEBUG - 2015-02-02 02:59:34 --> Session Class Initialized
+DEBUG - 2015-02-02 02:59:34 --> Helper loaded: string_helper
+DEBUG - 2015-02-02 02:59:34 --> Session routines successfully run
+DEBUG - 2015-02-02 02:59:34 --> Model Class Initialized
+DEBUG - 2015-02-02 02:59:34 --> Model Class Initialized
+DEBUG - 2015-02-02 02:59:34 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-02-02 02:59:34 --> Controller Class Initialized
+DEBUG - 2015-02-02 02:59:34 --> File loaded: application/views/header.php
+DEBUG - 2015-02-02 02:59:34 --> File loaded: application/views/footer.php
+DEBUG - 2015-02-02 02:59:34 --> File loaded: application/views/static_page/home_page.php
+DEBUG - 2015-02-02 02:59:34 --> Final output sent to browser
+DEBUG - 2015-02-02 02:59:34 --> Total execution time: 0.2729
