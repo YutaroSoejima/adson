@@ -1086,3 +1086,34 @@ DEBUG - 2015-02-02 02:30:57 --> File loaded: application/views/footer.php
 DEBUG - 2015-02-02 02:30:57 --> File loaded: application/views/treat/single.php
 DEBUG - 2015-02-02 02:30:57 --> Final output sent to browser
 DEBUG - 2015-02-02 02:30:57 --> Total execution time: 0.2078
+DEBUG - 2015-02-02 12:16:05 --> Config Class Initialized
+DEBUG - 2015-02-02 12:16:05 --> Hooks Class Initialized
+DEBUG - 2015-02-02 12:16:05 --> Utf8 Class Initialized
+DEBUG - 2015-02-02 12:16:05 --> UTF-8 Support Enabled
+DEBUG - 2015-02-02 12:16:05 --> URI Class Initialized
+DEBUG - 2015-02-02 12:16:05 --> Router Class Initialized
+DEBUG - 2015-02-02 12:16:05 --> Output Class Initialized
+DEBUG - 2015-02-02 12:16:05 --> Security Class Initialized
+DEBUG - 2015-02-02 12:16:05 --> Input Class Initialized
+DEBUG - 2015-02-02 12:16:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-02 12:16:05 --> Language Class Initialized
+DEBUG - 2015-02-02 12:16:05 --> Loader Class Initialized
+DEBUG - 2015-02-02 12:16:05 --> Config file loaded: application/config/adson_config.php
+DEBUG - 2015-02-02 12:16:05 --> Helper loaded: form_helper
+DEBUG - 2015-02-02 12:16:05 --> Helper loaded: url_helper
+DEBUG - 2015-02-02 12:16:05 --> Helper loaded: date_helper
+DEBUG - 2015-02-02 12:16:05 --> Database Driver Class Initialized
+ERROR - 2015-02-02 12:16:05 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\treat_test\system\database\drivers\mysql\mysql_driver.php 88
+DEBUG - 2015-02-02 12:16:05 --> Session Class Initialized
+DEBUG - 2015-02-02 12:16:05 --> Helper loaded: string_helper
+DEBUG - 2015-02-02 12:16:05 --> Session routines successfully run
+DEBUG - 2015-02-02 12:16:05 --> Model Class Initialized
+DEBUG - 2015-02-02 12:16:05 --> Model Class Initialized
+DEBUG - 2015-02-02 12:16:05 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-02-02 12:16:05 --> Controller Class Initialized
+DEBUG - 2015-02-02 12:16:05 --> Model Class Initialized
+DEBUG - 2015-02-02 12:16:05 --> File loaded: application/views/header.php
+DEBUG - 2015-02-02 12:16:05 --> File loaded: application/views/footer.php
+DEBUG - 2015-02-02 12:16:05 --> File loaded: application/views/treat/single.php
+DEBUG - 2015-02-02 12:16:05 --> Final output sent to browser
+DEBUG - 2015-02-02 12:16:05 --> Total execution time: 0.1687
