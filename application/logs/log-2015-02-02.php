@@ -1118,3 +1118,65 @@ DEBUG - 2015-02-02 12:10:06 --> File loaded: application/views/footer.php
 DEBUG - 2015-02-02 12:10:06 --> File loaded: application/views/treat/single.php
 DEBUG - 2015-02-02 12:10:06 --> Final output sent to browser
 DEBUG - 2015-02-02 12:10:06 --> Total execution time: 0.3200
+DEBUG - 2015-02-02 12:25:29 --> Config Class Initialized
+DEBUG - 2015-02-02 12:25:29 --> Hooks Class Initialized
+DEBUG - 2015-02-02 12:25:29 --> Utf8 Class Initialized
+DEBUG - 2015-02-02 12:25:29 --> UTF-8 Support Enabled
+DEBUG - 2015-02-02 12:25:29 --> URI Class Initialized
+DEBUG - 2015-02-02 12:25:29 --> Router Class Initialized
+DEBUG - 2015-02-02 12:25:29 --> No URI present. Default controller set.
+DEBUG - 2015-02-02 12:25:29 --> Output Class Initialized
+DEBUG - 2015-02-02 12:25:29 --> Security Class Initialized
+DEBUG - 2015-02-02 12:25:29 --> Input Class Initialized
+DEBUG - 2015-02-02 12:25:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-02 12:25:29 --> Language Class Initialized
+DEBUG - 2015-02-02 12:25:29 --> Loader Class Initialized
+DEBUG - 2015-02-02 12:25:29 --> Config file loaded: application/config/adson_config.php
+DEBUG - 2015-02-02 12:25:29 --> Helper loaded: form_helper
+DEBUG - 2015-02-02 12:25:29 --> Helper loaded: url_helper
+DEBUG - 2015-02-02 12:25:29 --> Helper loaded: date_helper
+DEBUG - 2015-02-02 12:25:29 --> Database Driver Class Initialized
+ERROR - 2015-02-02 12:25:29 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\treat_test\system\database\drivers\mysql\mysql_driver.php 88
+DEBUG - 2015-02-02 12:25:29 --> Session Class Initialized
+DEBUG - 2015-02-02 12:25:29 --> Helper loaded: string_helper
+DEBUG - 2015-02-02 12:25:29 --> Session routines successfully run
+DEBUG - 2015-02-02 12:25:29 --> Model Class Initialized
+DEBUG - 2015-02-02 12:25:29 --> Model Class Initialized
+DEBUG - 2015-02-02 12:25:29 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-02-02 12:25:29 --> Controller Class Initialized
+DEBUG - 2015-02-02 12:25:29 --> File loaded: application/views/header.php
+DEBUG - 2015-02-02 12:25:29 --> File loaded: application/views/footer.php
+DEBUG - 2015-02-02 12:25:29 --> File loaded: application/views/static_page/home_page.php
+DEBUG - 2015-02-02 12:25:29 --> Final output sent to browser
+DEBUG - 2015-02-02 12:25:29 --> Total execution time: 0.1723
+DEBUG - 2015-02-02 12:25:48 --> Config Class Initialized
+DEBUG - 2015-02-02 12:25:48 --> Hooks Class Initialized
+DEBUG - 2015-02-02 12:25:48 --> Utf8 Class Initialized
+DEBUG - 2015-02-02 12:25:48 --> UTF-8 Support Enabled
+DEBUG - 2015-02-02 12:25:48 --> URI Class Initialized
+DEBUG - 2015-02-02 12:25:48 --> Router Class Initialized
+DEBUG - 2015-02-02 12:25:48 --> Output Class Initialized
+DEBUG - 2015-02-02 12:25:48 --> Security Class Initialized
+DEBUG - 2015-02-02 12:25:48 --> Input Class Initialized
+DEBUG - 2015-02-02 12:25:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-02-02 12:25:48 --> Language Class Initialized
+DEBUG - 2015-02-02 12:25:48 --> Loader Class Initialized
+DEBUG - 2015-02-02 12:25:48 --> Config file loaded: application/config/adson_config.php
+DEBUG - 2015-02-02 12:25:48 --> Helper loaded: form_helper
+DEBUG - 2015-02-02 12:25:48 --> Helper loaded: url_helper
+DEBUG - 2015-02-02 12:25:48 --> Helper loaded: date_helper
+DEBUG - 2015-02-02 12:25:48 --> Database Driver Class Initialized
+ERROR - 2015-02-02 12:25:48 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\treat_test\system\database\drivers\mysql\mysql_driver.php 88
+DEBUG - 2015-02-02 12:25:48 --> Session Class Initialized
+DEBUG - 2015-02-02 12:25:48 --> Helper loaded: string_helper
+DEBUG - 2015-02-02 12:25:48 --> Session routines successfully run
+DEBUG - 2015-02-02 12:25:48 --> Model Class Initialized
+DEBUG - 2015-02-02 12:25:48 --> Model Class Initialized
+DEBUG - 2015-02-02 12:25:48 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2015-02-02 12:25:48 --> Controller Class Initialized
+DEBUG - 2015-02-02 12:25:48 --> Model Class Initialized
+DEBUG - 2015-02-02 12:25:48 --> File loaded: application/views/header.php
+DEBUG - 2015-02-02 12:25:48 --> File loaded: application/views/footer.php
+DEBUG - 2015-02-02 12:25:48 --> File loaded: application/views/treat/single.php
+DEBUG - 2015-02-02 12:25:48 --> Final output sent to browser
+DEBUG - 2015-02-02 12:25:48 --> Total execution time: 0.1711

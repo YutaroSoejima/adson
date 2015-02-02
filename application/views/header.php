@@ -46,10 +46,10 @@
 
 		        	<ul class="nav navbar-nav navbar-right">
 		        		<?php if( !$this->common_model->signed_in() ): ?>
-		        			<li><a href="<?=site_url('user/register')?>">新規登録</a></li>
-		        			<li><a href="<?=site_url('user/login')?>">ログイン</a></li>
+		        			<li><a href="<?=site_url('user/register')?>"><span class="glyphicon glyphicon-road" aria-hidden="true"></span> 新規登録</a></li>
+		        			<li><a href="<?=site_url('user/login')?>"><span class="glyphicon glyphicon-log-in" aria-hidden="true"></span> ログイン</a></li>
 		        		<?php else: ?>
-		        			<li><a href="<?=site_url('user/logout')?>">ログアウト</a></li>
+		        			<li><a href="<?=site_url('user/logout')?>"><span class="glyphicon glyphicon-log-out" aria-hidden="true"></span> ログアウト</a></li>
 		        		<?php endif; ?>
 		        	</ul>
 		        </div><!--/.nav-collapse -->
