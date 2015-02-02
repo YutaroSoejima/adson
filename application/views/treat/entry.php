@@ -32,7 +32,7 @@
 		    <textarea type="password" class="form-control" id="comment" name="comment" rows="6" placeholder="意気込みや自己アピールなどをご自由にどうぞ！"><?=set_value('comment')?></textarea>
 		</div>
 
-		<button type="submit" class="btn btn-default btn-block btn-primary">上記の内容でお願いする</button>
+		<button type="submit" class="btn btn-lg btn-block btn-primary">上記の内容でお願いする</button>
 	<?=form_close();?>
 </div>
 
