@@ -47,7 +47,7 @@
 		    </select>
 		</div>
 
-		<button type="submit" class="btn btn-default btn-block btn-primary">上記の内容で登録する</button>
+		<button type="submit" class="btn btn-lg btn-block btn-primary">上記の内容で登録する</button>
 	<?=form_close();?>
 </div><!-- /content -->
 

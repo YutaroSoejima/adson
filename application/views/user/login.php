@@ -25,7 +25,7 @@
 		    <input type="password" class="form-control" id="password" name="password" placeholder="パスワードを入力してください" value="<?php echo set_value('password'); ?>">
 		</div>
 
-		<button type="submit" class="btn btn-default btn-block btn-primary">ログインする</button>
+		<button type="submit" class="btn btn-lg btn-block btn-primary">ログインする</button>
 	<?=form_close();?>
 </div><!-- /content -->
 
